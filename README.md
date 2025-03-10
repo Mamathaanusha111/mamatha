@@ -1,1 +1,1 @@
-git init
+ echo "polytechnic college" >> README.md
